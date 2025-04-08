@@ -16,8 +16,7 @@ This project is a part of a full-stack development bootcamp. It focuses on using
 
 ## Demo
 
-![Project Demo](demo.gif)
-
+![Project Demo](EkranKaydı2025-04-0821.35.12-ezgif.com-video-to-gif-converted.gif)  
 ## Author
 
 **Hasan Koparan**  
