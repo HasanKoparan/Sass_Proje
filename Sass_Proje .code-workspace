@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "icomoon"
+		},
+		{
+			"path": "../icomoon/SVG"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Sass_Proje "
+	}
+}
