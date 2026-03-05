@@ -1,14 +1,10 @@
 # Sass_Proje
 
-A responsive front-end project built with **HTML5** and **SCSS (Sass)**, 
-featuring a modular stylesheet architecture and custom SVG icon system.
+A responsive front-end project built with **HTML5** and **SCSS (Sass)**, featuring a modular stylesheet architecture and custom SVG icon system.
 
-## 📋 Description
+## 🗒️ Description
 
-This project is part of a full-stack development bootcamp. It focuses on 
-using SCSS to write clean, modular, and maintainable CSS code. The layout 
-is designed to demonstrate responsive design, reusable components, and 
-modern web styling practices.
+This project is part of a full-stack development bootcamp. It focuses on using SCSS to write clean, modular, and maintainable CSS code. The layout is designed to demonstrate responsive design, reusable components, and modern web styling practices.
 
 ## 🛠️ Technologies Used
 
@@ -19,6 +15,7 @@ modern web styling practices.
 
 ## 📁 Project Structure
 
+```
 Sass_Proje/
 ├── index.html
 ├── main.scss
@@ -29,7 +26,7 @@ Sass_Proje/
 ├── _header.scss
 ├── _normalize.scss
 └── _variables.scss
-
+```
 
 ## ⚙️ Getting Started
 
@@ -39,22 +36,16 @@ npm install -g sass
 
 # Watch and compile
 sass --watch main.scss:main.css
+```
 
 ## 🎬 Demo
 
-
-
-https://github.com/user-attachments/assets/15001885-ffdd-4af3-92af-b39c87deb489
-
-
-https://github.com/user-attachments/assets/3974eb89-a9b3-4d84-87d5-6b0bfee1021b
-
-
-
+![Project Demo](EkranKayd2025-04-0821.35.12-ezgif.com-video-to-gif-converted.gif)
 
 ## 👤 Author
 
 **Hasan Koparan**  
-Full-stack development bootcamp student based in Gothenburg, Sweden.  
+Full-stack development bootcamp student based in Copenhagen, Denmark.  
 GitHub: [@dhasan](https://github.com/dhasan)
+
 
