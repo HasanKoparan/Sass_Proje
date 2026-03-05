@@ -46,6 +46,6 @@ sass --watch main.scss:main.css
 
 **Hasan Koparan**  
 Full-stack development bootcamp student based in Copenhagen, Denmark.  
-GitHub: [@dhasan](https://github.com/dhasan)
+
 
 
