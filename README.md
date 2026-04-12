@@ -3,7 +3,7 @@
 A pixel-perfect clone of the GitHub profile page interface, built with HTML5 and SCSS (Sass). Focuses on modular stylesheet architecture, custom SVG icon system, and responsive design — no JavaScript required.
 
 🔗 **[Live Demo](https://hasankoparan.github.io/Sass_Proje)**
-
+https://hasankoparan.github.io/Sass_Proje/
 -----
 
 ## ✨ Features
