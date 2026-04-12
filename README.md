@@ -1,36 +1,67 @@
-# Sass_Proje
+# 🎨 Sass_Proje — GitHub Profile UI Clone
 
-A responsive front-end project built with **HTML5** and **SCSS (Sass)**, featuring a modular stylesheet architecture and custom SVG icon system.
+A pixel-perfect clone of the GitHub profile page interface, built with HTML5 and SCSS (Sass). Focuses on modular stylesheet architecture, custom SVG icon system, and responsive design — no JavaScript required.
 
-## 🗒️ Description
+🔗 **[Live Demo](https://hasankoparan.github.io/Sass_Proje)**
 
-This project is part of a full-stack development bootcamp. It focuses on using SCSS to write clean, modular, and maintainable CSS code. The layout is designed to demonstrate responsive design, reusable components, and modern web styling practices.
+-----
 
-## 🛠️ Technologies Used
+## ✨ Features
 
-- HTML5
-- SCSS (Sass)
-- Google Fonts — Maven Pro
-- SVG Icon System
+- 🖥️ GitHub profile page UI clone
+- 🎨 Modular SCSS architecture with partials
+- 🔷 Custom inline SVG icon system
+- ✍️ Google Fonts — Maven Pro
+- 🖱️ Hover effects on interactive elements
+- 📱 Responsive layout
+- 🧹 CSS normalization and reset
+<img width="896" height="517" alt="Ekran Resmi 2026-04-12 13 27 29" src="https://github.com/user-attachments/assets/9b738bbd-03fe-4edd-a7c9-9d498754d2eb" />
+
+-----
+
+## 🛠️ Built With
+
+- **HTML5** — Semantic structure
+- **SCSS (Sass)** — Variables, partials, nesting
+- **Google Fonts** — Maven Pro
+- **SVG** — Custom icon system
+
+-----
+
+## 🧠 SCSS Concepts Used
+
+- Variables (`_variables.scss`)
+- Normalize & reset (`_normalize.scss`, `_formalize.scss`)
+- Component-based partials (`_header.scss`, `_content.scss`)
+- Sass `@import` / `@use` structure
+- Nesting and BEM-style selectors
+- Source maps (`main.css.map`)
+
+-----
 
 ## 📁 Project Structure
 
 ```
 Sass_Proje/
-├── index.html
-├── main.scss
-├── main.css
-├── main.css.map
-├── _content.scss
-├── _formalize.scss
-├── _header.scss
-├── _normalize.scss
-└── _variables.scss
+├── index.html          # Main page markup
+├── main.scss           # Entry point — imports all partials
+├── main.css            # Compiled output
+├── main.css.map        # Source map for debugging
+├── _variables.scss     # Global variables
+├── _normalize.scss     # CSS normalization
+├── _formalize.scss     # Form element resets
+├── _header.scss        # Header styles
+└── _content.scss       # Main content styles
 ```
 
-## ⚙️ Getting Started
+-----
+
+## 🚀 Getting Started
 
 ```bash
+git clone https://github.com/HasanKoparan/Sass_Proje.git
+cd Sass_Proje
+
 # Install Sass
 npm install -g sass
 
@@ -38,14 +69,17 @@ npm install -g sass
 sass --watch main.scss:main.css
 ```
 
-## 🎬 Demo
+Then open `index.html` with Live Server in VS Code.
 
-![Project Demo](EkranKayd2025-04-0821.35.12-ezgif.com-video-to-gif-converted.gif)
+-----
 
-## 👤 Author
+## 👨‍💻 Author
 
-**Hasan Koparan**  
-Full-stack development bootcamp student based in Copenhagen, Denmark.  
+**Hasan Koparan**
 
+- GitHub: [@HasanKoparan](https://github.com/HasanKoparan)
+- LinkedIn: [linkedin.com/in/hasankoparan](https://linkedin.com/in/hasankoparan)
 
+-----
 
+> Built as part of a fullstack development program — practicing real-world UI cloning with modular SCSS architecture. 💪
